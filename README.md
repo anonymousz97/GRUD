@@ -1,5 +1,9 @@
 # A rapid and reference-free imputation method for low-cost genomic applications
 
+# clone from GRUD : https://github.com/vinhdc10998/GRUD/ with some modification in model.
+
+### Add GRUModel_improve class with replace GRU by BiLSTM modules in gru_model.py and CustomDiscriminator class in grud_model.py to input MLP list instead of single dense layer.
+
 ## Overview
 ![Screenshot](image/GRUD.svg)
 
