@@ -4,6 +4,9 @@
 
 ### Add GRUModel_improve class with replace GRU by BiLSTM modules in gru_model.py and CustomDiscriminator class in grud_model.py to input MLP list instead of single dense layer.
 
+### Running experiments from old repo : https://colab.research.google.com/drive/1SvHUn6msv297ViKxTRlT596nT_8UyDwq?usp=sharing
+### Running experiments from modified repo : https://colab.research.google.com/drive/1fQ5W_cSRFtdh5hQBFi2fArIHsj-rW2uT?usp=sharing
+
 ## Overview
 ![Screenshot](image/GRUD.svg)
 
