@@ -66,6 +66,8 @@ python train.py --root-dir <path of LENGEND/HAP files> \
                 --region 1-10
 ```
 
+Be aware of CustomDiscriminator class in model/grud.py
+
 ## Arguments
 | Args | Default | Description |
 | :--- | :--- | :--- |
