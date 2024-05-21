@@ -66,7 +66,8 @@ python train.py --root-dir <path of LENGEND/HAP files> \
                 --region 1-10
 ```
 
-Be aware of CustomDiscriminator class in model/grud.py
+Be aware of CustomDiscriminator class in model/grud_model.py
+Right now you can only modify the list of dense layers in the file or put it in the config file, but i haven't edit the config file yet. Will be update in the future...
 
 ## Arguments
 | Args | Default | Description |
